@@ -1,4 +1,4 @@
-## What's up! I'm Richard Kendy 👋
+## Hello there! I'm Richard Kendy 👋
 
 - 🔭 I’m currently working on back-end
 - 🌱 I’m currently learning ReactJS
