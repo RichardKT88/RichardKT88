@@ -1,7 +1,7 @@
 ## Hello there! I'm Richard Kendy 👋
 
 - 🔭 I’m currently working on back-end
-- 🌱 I’m currently systems architecture with azure devops
+- 🌱 I’m currently learning Systems Architecture With Azure Devops
 
 <div align="center">
   <a href="https://github.com/RichardKT88">
