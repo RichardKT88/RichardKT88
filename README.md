@@ -2,13 +2,7 @@
 
 - 🔭 I’m currently working on back-end
 - 🌱 I’m currently learning FullStack Development with Node.js (TypeScript) and React (Next.js)
-
-<div align="center">
-  <a href="https://github.com/RichardKT88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardKT88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardKT88&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+ 
 ## ⚡ Technologies
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
